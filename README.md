@@ -1,5 +1,5 @@
 # Hi, I'm Anshu 👋 👨🏻‍💻
-![Image of kumaranshu72](https://github.com/kumaranshu72/kumaranshu72/blob/master/Hello there!.png?raw=true)
+![Image of kumaranshu72](https://github.com/kumaranshu72/kumaranshu72/blob/master/hello.png?raw=true)
 
 I'm a software engineer who is passionate about contributing in open-source, creating technology to elevate people, and building community. Some technologies I enjoy working with include NodeJs, GoLang, Grpc.
 
